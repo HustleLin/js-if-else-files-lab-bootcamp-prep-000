@@ -11,7 +11,7 @@ if (height === "70") {
   console.log("The height is correct")
 }
 else {
-  console.log("Expected height to be "70"")
+  console.log("Expected height to be 70")
 }
 
 // Don't worry about this
